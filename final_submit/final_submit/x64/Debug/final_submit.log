@@ -1,4 +1,0 @@
-﻿  EnergePower_Orgnize.cpp
-D:\vs\cv\春招\final_submit\EnergePower_Orgnize.cpp(57,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\vs\cv\春招\final_submit\EnergePower_Orgnize.cpp(58,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  final_submit.vcxproj -> D:\vs\cv\春招\final_submit\x64\Debug\final_submit.exe
